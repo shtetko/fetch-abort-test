@@ -1,0 +1,15 @@
+body {
+  color: #fff;
+  background: #303139;
+}
+
+button {
+  outline: 0;
+  border: 0;
+  padding: 10px;
+}
+
+button:active {
+  background: #3D48BC;
+}
+
